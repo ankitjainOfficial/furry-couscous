@@ -1,2 +1,3 @@
 Hello, welcome to Git masterclass.
 Ohh! is this class boring?
+No this class is not boring.
