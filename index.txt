@@ -1,1 +1,2 @@
 Hello, welcome to Git masterclass.
+Ohh! this class is so boring?
